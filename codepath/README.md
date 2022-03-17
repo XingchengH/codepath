@@ -1,14 +1,12 @@
-# codepath
- codepath pre-work
 # Pre-work - *Memory Game*
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **NAME**
+Submitted by: Xingcheng Huang
 
-Time spent: **#** hours spent in total
+Time spent: For project, around 1 hour to complete
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://glitch.com/edit/#!/sunny-meowing-parent)
 
 ## Required Functionality
 
