@@ -46,17 +46,18 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+[I basically just follow the directions from the website, and step by step doing the light and sound memory game.]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+[Since I just followed the instructions, there is not much trouble while making this game. To be honest, there is challenge that in order to creating this task submission, since I do almost have no chance or I haven’t try these recognized front-end three-piece set(html, css, and js), and it is my first time to touch this computing language, Javascript. I do have trouble while I in the step which make the tab sounds, and follow the patterns, but later on I found out that I do mispronounce the word. And also since it is done in the web, when I copy all the code into Atom, it is doesn’t work properly, the first thought comes to my mind is that maybe the web itself support javascript stuffs, but later I found out that I need to connect the script file correctly, since if not connect then the pages be created would loss the property of functions.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[While I was doing this hand by hand small interesting project or web game, I found out that there are connections to other languages even though they do different functions. Such html is making the layout, and css is making the layout more organized, and javascript making the word or stuff be built functionalized. The logic behind is similar to other languages, such as Java, C++, etc. Since I have learned so much about programming languages, I have no sense of how it is to work with others, such as how to let others have access to the game that I make, and how to keep record of that. It is an interesting topic to talk about.
+]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
-
+[If I had more time or more hours to work on this project, I would definitely be willing to learn about these languages, and make the project stronger by adding more abilities, such the optional properties, make the project more attractive. The first stuffs I might want to do is make the square beautify, it is so simply with this monotonous color, and without any effects, and I might also want to make more sounds instead of just single notes, and maybe I would make the property of the game to change, such as when you clicked on the square stuffs, it is will disappeared, or something like that which might create surprise to the player. For now, the project seems just a semi finished product room, there is always thing you can do to improve this small project.
+]
 
 
 ## Interview Recording URL Link
