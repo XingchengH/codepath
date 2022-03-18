@@ -47,7 +47,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 
-[I basically just follow the directions from the website, and step by step doing the light and sound memory game.]
+[I basically just follow the directions from the website, and step by step doing the light and sound memory game. Inadditional, I do go to the StackOverflow for many searches about Javascript, HTML, and CSS questions, and also I do go to w3schools for some tutorials]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
 
