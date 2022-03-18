@@ -1,2 +1,2 @@
 # codepath
-codepath pre-work
+This repository is for all the works done for codepath.
