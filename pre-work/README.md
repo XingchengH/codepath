@@ -4,7 +4,7 @@
 
 Submitted by: Xingcheng Huang
 
-Time spent: For project, around 1 hour to complete
+Time spent: For project, around 4 hour to complete
 
 Link to project: (https://glitch.com/edit/#!/sunny-meowing-parent)
 
