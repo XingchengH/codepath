@@ -26,7 +26,7 @@ The following **optional** features are implemented:
 * [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
 * [ ] More than 4 functional game buttons
 * [ ] Playback speeds up on each turn
-* [ ] Computer picks a different pattern each time the game is played
+* [X] Computer picks a different pattern each time the game is played
 * [ ] Player only loses after 3 mistakes (instead of on the first mistake)
 * [ ] Game button appearance change goes beyond color (e.g. add an image)
 * [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
@@ -35,11 +35,13 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app!
+- [X] Add a littl bit layout
+- [X] Add a image
 
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](https://i.imgur.com/O5uGXVd.gif)
+![](https://i.imgur.com/5weEEUI.gifv)
 )
 
 ## Reflection Questions
@@ -49,7 +51,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
 
-[Since I just followed the instructions, there is not much trouble while making this game. To be honest, there is challenge that in order to creating this task submission, since I do almost have no chance or I haven’t try these recognized front-end three-piece set(html, css, and js), and it is my first time to touch this computing language, Javascript. I do have trouble while I in the step which make the tab sounds, and follow the patterns, but later on I found out that I do mispronounce the word. And also since it is done in the web, when I copy all the code into Atom, it is doesn’t work properly, the first thought comes to my mind is that maybe the web itself support javascript stuffs, but later I found out that I need to connect the script file correctly, since if not connect then the pages be created would loss the property of functions.]
+[Since I just followed the instructions, there is not much trouble while making this game. To be honest, there is challenge that in order to creating this task submission, since I do almost have no chance or I haven’t try these recognized front-end three-piece set(html, css, and js), and it is my first time to touch this computing language, Javascript. I do have trouble while I in the step which make the tab sounds, and follow the patterns, but later on I found out that I do mispronounce the word. And also since it is done in the web, when I copy all the code into Atom, it is doesn’t work properly, the first thought comes to my mind is that maybe the web itself support javascript stuffs, but later I found out that I need to connect the script file correctly, since if not connect then the pages be created would loss the property of functions. And also it is hard to change the layout if you don't know a lot about html and css.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)
 
@@ -58,7 +60,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
 
-[If I had more time or more hours to work on this project, I would definitely be willing to learn about these languages, and make the project stronger by adding more abilities, such the optional properties, make the project more attractive. The first stuffs I might want to do is make the square beautify, it is so simply with this monotonous color, and without any effects, and I might also want to make more sounds instead of just single notes, and maybe I would make the property of the game to change, such as when you clicked on the square stuffs, it is will disappeared, or something like that which might create surprise to the player. For now, the project seems just a semi finished product room, there is always thing you can do to improve this small project.
+[If I had more time or more hours to work on this project, I would definitely be willing to learn about these languages, and make the project stronger by adding more abilities, such the optional properties, make the project more attractive. The first stuffs I might want to do is make the square beautify, it is so simply with this monotonous color, and without any effects, and I might also want to make more sounds instead of just single notes, and maybe I would make the property of the game to change, such as when you clicked on the square stuffs, it is will disappeared, or something like that which might create surprise to the player. The most important thing that I need to improve is the layout and the functionlities, which can help player perform better during this small game. For now, the project seems just a semifinished product room, there is always thing you can do to improve this small project.
 ]
 
 
