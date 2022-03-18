@@ -2,16 +2,60 @@
 
 /* default to border-box */
 html {
+  font-family: verdana, arial, sans-serif;
   box-sizing: border-box;
   font-size: 16px;
 }
 
 *, *:before, *:after {
-  box-sizing: inherit;
+  box-sizing: border-box;
+}
+
+/* adjust typography defaults */
+body {
+  background-color: #5f9ea0;
+  color: white;
+  margin: 2rem;
+  font-family: sans-serif;
+  line-height: 1.5;
 }
 
 h1 {
-  font-family: verdana, arial, sans-serif;
+  display: block;
+  margin: 50px auto 0 auto;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto 50px;
+}
+
+.Top-container {
+  height: 150px;
+}
+
+.Bottom-container {
+
+}
+
+.giphy-embed {
+  border-radius: 100%;
+  float: left;
+  margin: 0px 0px 10px;
+  position: relative;
+  
+}
+
+.Intro {
+  position: relative;
+  left: 25px;
+}
+
+.welcome-text {
+  margin-top: 0px;
+  margin-bottom: 150px;
 }
 
 .hidden {
@@ -27,6 +71,7 @@ h1 {
 button {
   padding: 10px;
   border-radius: 10px;
+  margin-bottom: 10px;
 }
 
 #button1 {
@@ -61,18 +106,10 @@ button {
   background: yellow;
 }
 
-/* adjust typography defaults */
-body {
-  background-color: slategrey;
-  color: white;
-  margin: 2rem;
-  font-family: sans-serif;
-  line-height: 1.5;
-}
-
 /* images and videos max out at full width */
 img,
 video {
   height: auto;
   max-width: 100%;
 }
+
